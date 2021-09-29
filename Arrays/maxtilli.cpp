@@ -29,7 +29,7 @@ int main(){
 }
 
 
-//**Given an array arr[] of size N.The task is to find the first repeating element in the array of integers,i.e.,an elementthat occurs more than once and whose index of first occurence is smallest.**//
+//**Given an array arr[] of size N.The task is to find the first repeating element in the array of integers,i.e.,an element that occurs more than once and whose index of first occurence is smallest.**//
 #include<bits/stdc++.h>
 using namespace std;
 
