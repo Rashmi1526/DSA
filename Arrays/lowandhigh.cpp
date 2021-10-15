@@ -1,7 +1,15 @@
 /***Given a sorted array of integers of size ‘n’, return the low and high index of the given key. You must print -1 as low and high if the indexes are not found. The array length can be in the millions with many duplicates, so kindly use the algorithm which helps to reduce time.**//
+/***Approach- I have used Binary Search. Here, Runtime complexity is logarithmic, O(logn) and memory complexity is constant O(1), since no extra space is used.Linearly scanning the sorted array for low and high indices are highly inefficient since our array size can be in millions.
+
+Instead, we will use a slightly modified binary search to find the low and high indices of a given key.
+
+We need to do binary search twice;
+
+1)once for finding the low index.
+2)once for finding the high index.**/
+
   
-  
-  #include<iostream>
+#include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
 int find_low_index(vector<int>& arr, int key) {
