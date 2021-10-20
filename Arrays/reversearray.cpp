@@ -17,8 +17,7 @@ void revarray(int arr[], int t)
 
 int main() {
 	
-	int t;
-	cin>>t;
+	
 	int n;
 	cin>>n;
 	int arr[n];
