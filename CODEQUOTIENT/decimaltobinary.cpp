@@ -2,7 +2,7 @@
 
 To convert a decimal number(i.e. in base 10) into a binary number(i.e. in base 2), repeatedly divide the number by 2 until it becomes 0. After each division step store the remainder(0 OR 1) in an array. Finally print the array in the reverse order.
 
- Example: n = 25
+Example: n = 25
 
 25 / 2 = 12 Remainder: 1
 
