@@ -1,4 +1,4 @@
-/*Write a recursive function factorial that accepts an integer n as a parameter and returns the factorial of n, or n!.*/
+/*Write a recursive function factorial that accepts an integer n as a parameter and returns the factorial of n,or n!.*/
 
 
 #include<iostream>
