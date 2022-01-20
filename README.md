@@ -18,7 +18,7 @@
 ### Why should one learn data structures and algorithms ?
 
 * Building Block for our Career.
-* Essential skill for job in Software Development
+* Essential skill for job in Software Development.
 
 ***
 
