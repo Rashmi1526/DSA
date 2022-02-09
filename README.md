@@ -1,4 +1,5 @@
 # Data Structures and Algorithm
+***
 
 <p align="center">
   <img src="https://github.com/Rashmi1526/DSA/blob/main/assests/dsa.jpg" alt="Data Structures and Algorithms"/>
