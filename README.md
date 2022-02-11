@@ -5,7 +5,6 @@
   <img src="https://github.com/Rashmi1526/DSA/blob/main/assests/dsa.jpg" alt="Data Structures and Algorithms"/>
 </p>
 
-
 ### What are Data Structures?
 * Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
