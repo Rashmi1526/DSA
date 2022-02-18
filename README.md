@@ -1,8 +1,7 @@
-# Data Structures and Algorithm
-***
+# Data Structures and Algorithms
 
 <p align="center">
-  <img src="https://github.com/Rashmi1526/DSA/blob/main/assests/dsa.jpg" alt="Data Structures and Algorithms"/>
+  <img src="https://github.com/Rashmi1526/DSA/blob/main/assests/dsa.jpg" alt="Data Structures and Algorithms" width="200"/>
 </p>
 
 ### What are Data Structures?
