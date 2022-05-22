@@ -16,9 +16,12 @@ Input: nums = [3,2,1]
 Output: [1,2,3]*/
 
 //function
-class Solution {
-public:
-    void nextPermutation(vector<int>& nums) {
+#include<bits/stdc++.h>
+#include<iostream>
+
+using namespace std;
+
+void nextPermutation(vector<int>& nums) {
        int i, j;
         int n= nums.size();
         int a=0;
@@ -38,5 +41,14 @@ public:
             swap(nums[i], nums[j]);
             reverse(nums.begin()+i+1, nums.end());
         }        
+}
+
+int main(){
+    int n;
+    cin >> n;
+    vector<int> arr(n);
+    for(int i = 0; i < n; i++) {
+        cin>> arr[i];
     }
-};
+    nextPermutation(arr);
+}
